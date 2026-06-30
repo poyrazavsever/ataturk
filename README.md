@@ -1,4 +1,4 @@
-# Taşındık
+# Taşındık GÜNCELLEME
 ## Yeni adresimiz: [github.com/ataturk-kronolojisi/web](https://github.com/ataturk-kronolojisi/web)
 Tüm faaliyetlerimiz yeni adresimizde devam etmektedir.
 
